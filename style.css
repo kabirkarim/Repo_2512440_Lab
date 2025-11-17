@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background: violet;
+    background: green;
     color: #fff;
     text-align: center;
     padding: 6px;
@@ -17,14 +17,14 @@ table {
 } 
 
 th, td {
-    border: 2px solid violet;
+    border: 2px solid green ;
     text-align: center;
     padding: 8px;
     margin: 0px;
 }
 
 mark {
-    background-color: pink;
+    background-color: yellow;
     color: green;
     padding: 4px;
     border-radius: 7px;
